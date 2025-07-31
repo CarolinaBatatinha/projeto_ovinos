@@ -1,5 +1,7 @@
 # Projeto de Análise de Dados na Criação de Ovinos para Reprodução - EM CONSTRUÇÃO
----
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 Esse projeto visa analisar o ciclo completo da criação de ovinos voltados para reprodução (*a princípio*), desde o nascimento até a destinação final.
 
 ## Estrutura do Projeto
@@ -11,7 +13,7 @@ Dados sugeridos para coleta:
 - Registro reprodutivo (*idade ao primeiro parto, taxa de concepção*);
 - Destinação final (*venda para reprodução, descarte, óbitos*).
 
-### 2. Modelagem de Dados no Power BI
+### 2. Modelagem de Dados
 Serão criadas as seguintes tabelas relacionais:
 
 - Tabela Animais
@@ -75,17 +77,8 @@ id_animal (chave estrangeira)
 custo_evento
 consumo_racao
 custo_racao
+```
 
-```
-Tabela Pesagens
-
-```
-ID_Registro
-ID_Animal
-Data_Pesagem
-Peso
-Idade_Dias 
-```
 ### 3. Painéis de Análise (*Dashboards*)
 - Painel 1: Desempenho Reprodutivo
   - Gráfico de taxa de concepção por reprodutor;
