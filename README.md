@@ -1,6 +1,6 @@
 # Projeto de Análise de Dados na Criação de Ovinos para Reprodução 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  <b>EM CONSTRUÇÃO</b>  :construction:
 </h4>
 
 Esse projeto visa analisar o ciclo completo da criação de ovinos voltados para reprodução (*a princípio*), desde o nascimento até a destinação final.
