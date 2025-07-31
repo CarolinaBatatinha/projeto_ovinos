@@ -1,7 +1,8 @@
-# Projeto de Análise de Dados na Criação de Ovinos para Reprodução - EM CONSTRUÇÃO
+# Projeto de Análise de Dados na Criação de Ovinos para Reprodução 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
+
 Esse projeto visa analisar o ciclo completo da criação de ovinos voltados para reprodução (*a princípio*), desde o nascimento até a destinação final.
 
 ## Estrutura do Projeto
@@ -59,7 +60,7 @@ femeas_cobertas
 femeas_prenhes
 ```
 
-Tabela Sanitária
+- Tabela Sanitária
 
 ```
 id_registro
@@ -70,7 +71,7 @@ descricao
 observacoes
 ```
 
-Tabela Gastos
+- Tabela Gastos
 ```
 id_registro
 id_animal (chave estrangeira)
