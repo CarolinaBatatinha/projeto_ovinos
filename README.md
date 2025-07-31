@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados na Criação de Ovinos para Reprodução 
+# Análise de Dados na Criação de Ovinos para Reprodução 
 <h4 align="center"> 
     :construction:  <b>EM CONSTRUÇÃO</b>  :construction:
 </h4>
